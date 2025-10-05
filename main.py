@@ -115,7 +115,7 @@ async def part_example():
         contents=[
             TextContent(text="Provide a detailed description of this part."),
             UriContent(
-                uri="https://cdn.cadcrowd.com/3d-models/85/e7/85e7ddca-5bbc-4bde-9eec-e264ffb48146/gallery/a02211d6-663d-4041-890a-7442cbb67365/medium.jpg",
+                uri="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhohfa6SaWU6t8otexOiLpoqWPDy594RbKUp009Dkc8KjQA9JgVRRgXivlhEAD7e-ngWJnwtQNjz5CPGLqwSHYNQaLXk0O6POqtvu0EoMcz7J03pX_oHoJR6LgfTbXsRvhyrbvGbuM7iR8N/s1600/Sec23.jpg",
                 media_type="image/jpeg"
             )
         ]
